@@ -4,5 +4,7 @@ using namespace std;
 
 class mahasiswa
 {
+private:
+	string nama;
 
 };
