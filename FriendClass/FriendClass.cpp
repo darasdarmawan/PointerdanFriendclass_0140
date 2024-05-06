@@ -21,3 +21,8 @@ public:
 	void setId(int pId);
 	void displayA11(orang& a);
 };
+
+void siswa::displayA11(orang& a)
+{
+
+}
