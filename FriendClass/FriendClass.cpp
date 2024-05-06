@@ -24,5 +24,10 @@ public:
 
 void siswa::displayA11(orang& a)
 {
+	cout << id << endl
+		<< a.nama;
+}
+void orang::setNama(string pNama)
+{
 
 }
