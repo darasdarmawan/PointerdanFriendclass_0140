@@ -29,5 +29,9 @@ void siswa::displayA11(orang& a)
 }
 void orang::setNama(string pNama)
 {
+	nama = pNama;
+}
+void siswa::setId(int pId)
+{
 
 }
