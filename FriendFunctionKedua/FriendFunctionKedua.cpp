@@ -19,5 +19,9 @@ public:
 
 void manusia::showNilaiPelajar(pelajar& x)
 {
+	std::cout << x.nilai;
+}
+int main()
+{
 
 }
